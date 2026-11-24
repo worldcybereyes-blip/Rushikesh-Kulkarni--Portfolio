@@ -6,7 +6,7 @@
 
 I am a cybersecurity professional focused on Detection Engineering, Threat Detection, Security Operations (SOC), Threat Hunting, and Incident Response**.
 
-I hold a B.Sc. in Computer Science and a Post Graduate Diploma in Business Analytics (PGDBA). I have completed 395+ practical SOC investigation labs and CTF exercises**, developing hands-on skills in security monitoring, alert triage, endpoint and network forensics, and incident investigation.
+I hold a B.Sc. in Computer Science and a Post Graduate Diploma in Business Analytics (PGDBA). I have completed 395+ practical SOC investigation labs and CTF exercises, developing hands-on skills in security monitoring, alert triage, endpoint and network forensics, and incident investigation.
 
 My technical focus includes building detection logic, analyzing security telemetry, mapping adversary techniques to the MITRE ATT&CK framework, and developing Python- and Bash-based security automation.
 
@@ -78,7 +78,7 @@ Repository: [Add GitHub project link]
 
 Technologies: Python, HIBP API, Okta SDK, Microsoft Graph API, SQLite.
 
-Repository: [Add GitHub project link]
+
 
 ---
 

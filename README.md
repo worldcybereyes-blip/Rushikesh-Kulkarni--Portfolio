@@ -4,7 +4,7 @@
 
 📍 Pune, Maharashtra, India
 
-I am a cybersecurity professional focused on Detection Engineering, Threat Detection, Security Operations (SOC), Threat Hunting, and Incident Response**.
+I am a cybersecurity professional focused on Detection Engineering, Threat Detection, Security Operations (SOC), Threat Hunting, and Incident Response.
 
 I hold a B.Sc. in Computer Science and a Post Graduate Diploma in Business Analytics (PGDBA). I have completed 395+ practical SOC investigation labs and CTF exercises, developing hands-on skills in security monitoring, alert triage, endpoint and network forensics, and incident investigation.
 
